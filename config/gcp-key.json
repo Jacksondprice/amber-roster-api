@@ -1,0 +1,10 @@
+{
+  "type": "service_account",
+  "project_id": "amberrosterapi-prod",
+  "private_key_id": "0c44f9692e411375704c8a873c9535bedda844e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgXskDBKztrwHgZRp/\nYZI7Go80/o5kg3AnBUx4uQauS9yhRANCAATiikeEjZ/eUTyDkw0GifqUwJLt6ZCK\ne0U5dOv/xX6qp3dhZb1sJSK+ZVYUH0FMEJRY6bnZpUrVe60g/crEdzSt\n-----END PRIVATE KEY-----\n",
+  "client_email": "etl-runner@amberrosterapi-prod.iam.gserviceaccount.com",
+  "client_id": "641817053113082635162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}
